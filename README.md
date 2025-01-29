@@ -1,7 +1,7 @@
 # ElectionTracker
 The purpose of this project is to keep track of 5 candidates. We then, calculate the total votes of all 5 candidates and calculate the average of the total.
 
-The purpose of this program is to understand how we could utilize Arrays and ArrayLists in our program. 
+The purpose of this project is to understand how we could utilize Arrays and ArrayLists in our programs. 
 
 In addition, we need to understand how traversals work as well as how replacement methods work. 
 
